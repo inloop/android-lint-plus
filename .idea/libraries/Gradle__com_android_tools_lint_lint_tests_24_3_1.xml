@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.tools.lint:lint-tests:24.3.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-tests/24.3.1/741722d8795ea0af8a90f3ff5c9e69f3d5dc9143/lint-tests-24.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-tests/24.3.1/9a95c31ba1375b5a9ac2f4ed571b48d7b7dea52e/lint-tests-24.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
